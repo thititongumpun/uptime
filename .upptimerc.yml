@@ -8,7 +8,7 @@ sites:
   - name: SonarQube
     url: https://sonar.wcydtt.co
   - name: Jenkins
-    url: https://jenkins.wcydtt.co
+    url: https://jenkins.wcydtt.co/login
   - name: Gitlab
     url: https://gitlab.wcydtt.co
 
