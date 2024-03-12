@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.wcydtt.co.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 784,
     "timeDay": 784,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-03-11": 6
+      "2024-03-12": 65,
+      "2024-03-11": 305
     }
   },
   {
