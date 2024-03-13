@@ -11,6 +11,8 @@ sites:
     url: https://jenkins.wcydtt.co/login
   - name: Gitlab
     url: https://gitlab.wcydtt.co
+  - name: Jenkins Dev
+    url: https://jenkins-dev.wcydtt.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
