@@ -40,18 +40,19 @@
     "url": "https://jenkins.wcydtt.co/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.wcydtt.co.ico",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "84.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.65%",
-    "uptimeMonth": "84.65%",
-    "uptimeYear": "84.65%",
+    "status": "down",
+    "uptime": "87.25%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "87.25%",
+    "uptimeMonth": "87.25%",
+    "uptimeYear": "87.25%",
     "time": 767,
     "timeDay": 753,
     "timeWeek": 767,
     "timeMonth": 767,
     "timeYear": 767,
     "dailyMinutesDown": {
+      "2024-03-15": 2,
       "2024-03-12": 415,
       "2024-03-11": 305
     }
@@ -61,9 +62,9 @@
     "url": "https://gitlab.wcydtt.co",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.wcydtt.co.ico",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +73,9 @@
     "timeWeek": 1091,
     "timeMonth": 1091,
     "timeYear": 1091,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "Jenkins Dev",
